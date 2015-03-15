@@ -1,2 +1,2 @@
 # hello-world
-First set at introducing myself with GitHub. Writing the "hello world" code
+First try. Introducing myself with GitHub. Writing the basic "hello world" code.
