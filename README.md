@@ -1,2 +1,5 @@
-# hello-world
-First try. Introducing myself with GitHub. Writing the basic "hello world" code.
+hello-world
+
+Hi ppl,
+
+I like coffee, I like tea, i dislike uppercase and pee.
